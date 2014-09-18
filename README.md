@@ -1,6 +1,5 @@
-# One Month Rails
+# Pinteresting
 
-This is the pinteresting sample application for
-[*One Month Rails*](http://onemonthrails.com)
+This is the pinteresting sample application.
 
-by [Mattan Griffel](http://onemonthrails.com)
+by [William Araujo](http://twitter.com/williamraraujo)
