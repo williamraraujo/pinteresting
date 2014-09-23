@@ -1,6 +1,14 @@
+@import url(http://fonts.googleapis.com/css?family=Ubuntu:400,700);
+
 $body-bg: #ecf0f1;
 $jumbotron-bg: #fff;
-$navbar-inverse-bg: #2980b9;
 $navbar-inverse-link-color: #fff;
+$brand-primary: #000;
+$navbar-height: 45px;
+$font-family-sans-serif: 'Ubuntu', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 
 @import 'bootstrap';
+
+.navbar-brand {
+	font-weight: bold;
+}
